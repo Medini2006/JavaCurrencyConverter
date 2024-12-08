@@ -1,7 +1,7 @@
 # Simple Currency Conversion System in Java
 
 ## Description
-This project is a **Currency Conversion System** implemented in Java, showcasing the concept of **Polymorphism**. It is designed to calculate the equivalent amount in **Sri Lankan Rupees (LKR)** for various currencies such as **USD, GBP, and EUR**. 
+This project is a **Currency Conversion System** implemented in Java, showcasing the concept of **Polymorphism**. It is designed to calculate the equivalent amount in **Sri Lankan Rupees (LKR)** for various currencies such as **USD, GBP, and EUR**. Here there are two Java codes, one using user inputs and converting one and another, attaching the inputs to the code and displaying it.  
 
 The program demonstrates **Object-Oriented Programming (OOP)** principles, including:
 - Inheritance
