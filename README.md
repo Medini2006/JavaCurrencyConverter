@@ -26,7 +26,43 @@ The following conversion rates are used:
 - `EURConverter.java` - Subclass for EUR to LKR conversion.
 - `CurrencyConversionApp.java` - Main class for user input and execution.
 
+## Example Usage
+1. **Input**:
+
+Enter the currency type (USD/GBP/EUR): USD Enter the amount to convert: 100
+2. **Output**:
+
+Converted amount in LKR: 36000.0
+
+
+## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/medinithrishala/currency-conversion-system.git
+git clone https://github.com/yourusername/currency-conversion-system.git
+
+2. Compile the files:
+javac *.java
+
+3. Run the program:
+java CurrencyConversionApp
+
+##Technologies Used.
+Java
+Object-Oriented Programming
+
+##Future Enhancements
+Add support for additional currencies.
+Implement real-time conversion rates using an API.
+Develop a graphical user interface (GUI) for user interaction.
+
+
+##Author.
+Created by Medini Thrishala. Feel free to reach out for collaboration or feedback!
+
+
+
+
+
+
+
 
