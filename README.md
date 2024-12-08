@@ -1,1 +1,32 @@
-The program demonstrates Polymorphism in Java by simulating a simple Currency Conversion System for Sri Lankan Rupees (LKR). The goal is to show how different currency types (USD, GBP, EUR) can be handled dynamically using a base class and subclasses. 
+# Currency Conversion System in Java
+
+## Description
+This project is a **Currency Conversion System** implemented in Java, showcasing the concept of **Polymorphism**. It is designed to calculate the equivalent amount in **Sri Lankan Rupees (LKR)** for various currencies such as **USD, GBP, and EUR**. 
+
+The program demonstrates **Object-Oriented Programming (OOP)** principles, including:
+- Inheritance
+- Polymorphism
+- Encapsulation
+
+## Features
+- **Dynamic Currency Conversion**: Convert USD, GBP, or EUR to LKR.
+- **Scalable Design**: Easily extendable to support additional currencies.
+- **Clear Modular Structure**: Separate classes for each currency.
+
+## Conversion Rates
+The following conversion rates are used:
+- **1 USD = 360 LKR**
+- **1 GBP = 460 LKR**
+- **1 EUR = 390 LKR**
+
+## Project Files
+- `CurrencyConverter.java` - Base class with the generic `convert` method.
+- `USDConverter.java` - Subclass for USD to LKR conversion.
+- `GBPConverter.java` - Subclass for GBP to LKR conversion.
+- `EURConverter.java` - Subclass for EUR to LKR conversion.
+- `CurrencyConversionApp.java` - Main class for user input and execution.
+
+1. Clone the repository:
+```bash
+git clone https://github.com/medinithrishala/currency-conversion-system.git
+
