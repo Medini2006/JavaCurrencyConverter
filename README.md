@@ -40,6 +40,9 @@ Converted amount in LKR: 36000.0
 ```bash
 git clone https://github.com/yourusername/currency-conversion-system.git
 
+
+git clone https://github.com/yourusername/currency-conversion-system.git
+
 2. Compile the files:
 javac *.java
 
@@ -58,6 +61,18 @@ Develop a graphical user interface (GUI) for user interaction.
 
 ##Author.
 Created by Medini Thrishala. Feel free to reach out for collaboration or feedback!
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
