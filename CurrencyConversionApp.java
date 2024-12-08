@@ -10,7 +10,7 @@ class CurrencyConverter {
 class USDConverter extends CurrencyConverter {
     @Override
     public double convert(double amount) {
-        return amount * 129; // Conversion rate for USD to LKR
+        return amount * 290 ; // Conversion rate for USD to LKR
     }
 }
 
@@ -18,7 +18,7 @@ class USDConverter extends CurrencyConverter {
 class GBPConverter extends CurrencyConverter {
     @Override
     public double convert(double amount) {
-        return amount * 67; // Conversion rate for GBP to LKR
+        return amount * 370; // Conversion rate for GBP to LKR
     }
 }
 
@@ -26,7 +26,7 @@ class GBPConverter extends CurrencyConverter {
 class EURConverter extends CurrencyConverter {
     @Override
     public double convert(double amount) {
-        return amount * 21; // Conversion rate for EUR to LKR
+        return amount * 307; // Conversion rate for EUR to LKR
     }
 }
 
