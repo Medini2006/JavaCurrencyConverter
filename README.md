@@ -36,7 +36,7 @@ Converted amount in LKR: 36000.0
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/yourusername/currency-conversion-system.git
+git clone https://github.com/medini2006/currency-conversion-system.git
 
 2. Compile the files:
 javac *.java
