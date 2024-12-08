@@ -38,6 +38,26 @@ Converted amount in LKR: 36000.0
 1. Clone the repository:
 git clone https://github.com/yourusername/currency-conversion-system.git
 
+2. Compile the files:
+javac *.java
+
+3. Run the program.
+java CurrencyConversionApp.
+
+
+##Technologies Used.
+Java.
+Object-Oriented Programming.
+
+##Future Enhancements.
+Add support for additional currencies.
+Implement real-time conversion rates using an API.
+Develop a graphical user interface (GUI) for user interaction.
+
+##Author.
+Created by Medini Thrishala Thudahewage. Feel free to reach out for collaboration or feedback!
+
+
 
 
 
