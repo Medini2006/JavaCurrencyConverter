@@ -45,16 +45,16 @@ javac *.java
 java CurrencyConversionApp.
 
 
-##Technologies Used.
+#Technologies Used.
 Java.
 Object-Oriented Programming.
 
-##Future Enhancements.
+#Future Enhancements.
 Add support for additional currencies.
 Implement real-time conversion rates using an API.
 Develop a graphical user interface (GUI) for user interaction.
 
-##Author.
+#Author.
 Created by Medini Thrishala Thudahewage. Feel free to reach out for collaboration or feedback!
 
 
