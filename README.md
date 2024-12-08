@@ -15,9 +15,9 @@ The program demonstrates **Object-Oriented Programming (OOP)** principles, inclu
 
 ## Conversion Rates
 The following conversion rates are used:
-- **1 USD = 360 LKR**
-- **1 GBP = 460 LKR**
-- **1 EUR = 390 LKR**
+- **1 USD = 290 LKR**
+- **1 GBP = 370 LKR**
+- **1 EUR = 307 LKR**
 
 ## Project Files
 - `CurrencyConverter.java` - Base class with the generic `convert` method.
