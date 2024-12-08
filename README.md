@@ -1,0 +1,1 @@
+The program demonstrates Polymorphism in Java by simulating a simple Currency Conversion System for Sri Lankan Rupees (LKR). The goal is to show how different currency types (USD, GBP, EUR) can be handled dynamically using a base class and subclasses. 
