@@ -49,23 +49,21 @@ public class Currency {
 
         // Variable to store converted amount
         double convertedAmount = 0;
-
-        // Perform conversion based on currency type
-        switch (currencyType) {
-            case "USD":
-                convertedAmount = usdConverter.convert(amount);
-                break;
-            case "GBP":
-                convertedAmount = gbpConverter.convert(amount);
-                break;
-            case "EUR":
-                convertedAmount = eurConverter.convert(amount);
-                break;
-            default:
-                System.out.println("Invalid currency type!");
-                scanner.close();
-                return;
+        {
+               // Perform conversion without switch-case
+        if (currencyType.equals("USD")) {
+            convertedAmount = usdConverter.convert(amount);
+        } else if (currencyType.equals("GBP")) {
+            convertedAmount = gbpConverter.convert(amount);
+        } else if (currencyType.equals("EUR")) {
+            convertedAmount = eurConverter.convert(amount);
+        } else {
+            System.out.println("Invalid currency type!");
+            scanner.close();
+            return;
         }
+
+     
 
         // Display the result
         System.out.println("Converted amount in LKR: " + convertedAmount);
